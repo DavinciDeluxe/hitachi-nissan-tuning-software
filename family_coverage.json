@@ -1,0 +1,143 @@
+{
+  "family": "Hitachi (Nissan/Infiniti/Renault)",
+  "slug": "hitachi-nissan",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_urls": [
+    "https://www.davincideluxe.fr/hitachi-nissan-tuning-software",
+    "https://www.davincideluxe.org/hitachi-nissan-tuning-software",
+    "https://www.davincideluxe.app/hitachi-nissan-tuning-software",
+    "https://www.davincideluxe.software/hitachi-nissan-tuning-software",
+    "https://www.davincideluxe.es/hitachi-nissan-tuning-software",
+    "https://www.davincideluxe.de/hitachi-nissan-tuning-software",
+    "https://www.davincideluxe.it/hitachi-nissan-tuning-software",
+    "https://www.aesoftech.eu/hitachi-nissan-tuning-software"
+  ],
+  "matched_variants_count": 70,
+  "brands": {
+    "FORD": [
+      "HITACHI"
+    ],
+    "HONDA": [
+      "SH7058"
+    ],
+    "HYUNDAI": [
+      "SH7058",
+      "SH72546"
+    ],
+    "ISUZU": [
+      "SH7055",
+      "SH7058",
+      "4JXX SH7058",
+      "SH7058 _ SH72544",
+      "SH7058-4JJ1"
+    ],
+    "MAZDA": [
+      "SH7055",
+      "SH7059-SH725X",
+      "SH725",
+      "SH72543"
+    ],
+    "MITSUBISHI": [
+      "HITACHI",
+      "SH7055",
+      "SH7058-SH7059"
+    ],
+    "OPEL": [
+      "DECE02 SH7059",
+      "SH7058",
+      "SH7058 - DECE02 SH7059",
+      "SH7058 CJ",
+      "SH7059",
+      "SH7059-SH7058"
+    ],
+    "CHEVROLET": [
+      "SH7059"
+    ],
+    "VAUXHALL": [
+      "SH7059"
+    ],
+    "PEUGEOT": [
+      "SH7058-SH7059"
+    ],
+    "RENAULT": [
+      "BED434",
+      "BED501",
+      "HI-MEC92",
+      "HITACHI",
+      "MEC93",
+      "SH7059"
+    ],
+    "DACIA": [
+      "HITACHI",
+      "MEC93"
+    ],
+    "NISSAN": [
+      "BED",
+      "BED301",
+      "BED431",
+      "EFI SH72533 GEN 2",
+      "HITACHI",
+      "MEC-730",
+      "MEC78",
+      "MEC93",
+      "MEC940",
+      "SH7055",
+      "SH7058",
+      "SH7058-7059",
+      "SH7058-SH7059",
+      "SH7059"
+    ],
+    "INFINITI": [
+      "HITACHI",
+      "MEC93"
+    ],
+    "ALPINE": [
+      "HITACHI",
+      "MEC93"
+    ],
+    "SUZUKI": [
+      "SH7058"
+    ],
+    "TOYOTA": [
+      "SH72531"
+    ],
+    "VOLVO": [
+      "SH7058"
+    ],
+    "SUBARU": [
+      "HITACHI",
+      "SH7058-SH7059",
+      "SH72543",
+      "STI SH7058"
+    ],
+    "LINCOLN": [
+      "HITACHI"
+    ],
+    "CASE IH": [
+      "SH7059"
+    ],
+    "KUBOTA": [
+      "SH7058"
+    ],
+    "NEW HOLLAND": [
+      "SH7059"
+    ],
+    "STEYR": [
+      "SH7059"
+    ],
+    "FPT INDUSTRIAL": [
+      "SH7059"
+    ],
+    "IVECO": [
+      "SH7059"
+    ],
+    "MITSUBISHI FUSO": [
+      "SH7055"
+    ],
+    "RENAULT TRUCKS": [
+      "BED434",
+      "BED501",
+      "SH7059"
+    ]
+  }
+}
