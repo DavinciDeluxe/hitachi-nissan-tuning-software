@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Hitachi (Nissan / Infiniti / Renault) ECU Calibration Software — SH7055, SH7058, SH7059, SH72533 & BED/MEC petrol & diesel controllers (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/hitachi-nissan-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/hitachi-nissan-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
