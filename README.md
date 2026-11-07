@@ -1,10 +1,10 @@
-# Hitachi (Nissan/Infiniti/Renault) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Hitachi (Nissan/Infiniti/Renault) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Hitachi%20(Nissan%2FInfiniti%2FRenault)-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/hitachi-nissan-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/hitachi-nissan-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/hitachi-nissan-tuning-software)
 
-**Hitachi (Nissan/Infiniti/Renault)** is Hitachi SH7055, SH7058, SH7059, SH72533 & BED/MEC petrol and diesel ECU family for Nissan, Infiniti & Renault. **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Hitachi (Nissan/Infiniti/Renault) readouts**.
+**Hitachi (Nissan/Infiniti/Renault)** is Hitachi SH7055, SH7058, SH7059, SH72533 & BED/MEC petrol and diesel ECU family for Nissan, Infiniti & Renault. **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Hitachi (Nissan/Infiniti/Renault) readouts**.
 
 ## 📊 Live Hitachi (Nissan/Infiniti/Renault) Variants Covered Across Brands
 
