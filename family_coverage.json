@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/hitachi-nissan-tuning-software",
     "https://www.aesoftech.eu/hitachi-nissan-tuning-software"
   ],
-  "matched_variants_count": 70,
+  "matched_variants_count": 58,
   "brands": {
     "FORD": [
       "HITACHI"
@@ -27,14 +27,11 @@
     "ISUZU": [
       "SH7055",
       "SH7058",
-      "4JXX SH7058",
-      "SH7058 _ SH72544",
-      "SH7058-4JJ1"
+      "SH7058-SH72544"
     ],
     "MAZDA": [
       "SH7055",
-      "SH7059-SH725X",
-      "SH725",
+      "SH7059-SH7253",
       "SH72543"
     ],
     "MITSUBISHI": [
@@ -46,9 +43,8 @@
       "DECE02 SH7059",
       "SH7058",
       "SH7058 - DECE02 SH7059",
-      "SH7058 CJ",
-      "SH7059",
-      "SH7059-SH7058"
+      "SH7058-SH7059",
+      "SH7059"
     ],
     "CHEVROLET": [
       "SH7059"
@@ -60,10 +56,8 @@
       "SH7058-SH7059"
     ],
     "RENAULT": [
-      "BED434",
-      "BED501",
-      "HI-MEC92",
       "HITACHI",
+      "MEC92",
       "MEC93",
       "SH7059"
     ],
@@ -72,20 +66,15 @@
       "MEC93"
     ],
     "NISSAN": [
-      "BED",
-      "BED301",
-      "BED431",
-      "EFI SH72533 GEN 2",
       "HITACHI",
       "MEC-730",
       "MEC78",
       "MEC93",
       "MEC940",
+      "SH7054",
       "SH7055",
-      "SH7058",
-      "SH7058-7059",
       "SH7058-SH7059",
-      "SH7059"
+      "SH72533 GEN2"
     ],
     "INFINITI": [
       "HITACHI",
@@ -107,8 +96,7 @@
     "SUBARU": [
       "HITACHI",
       "SH7058-SH7059",
-      "SH72543",
-      "STI SH7058"
+      "SH72543"
     ],
     "LINCOLN": [
       "HITACHI"
