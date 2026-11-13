@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/hitachi-nissan-tuning-software",
     "https://www.aesoftech.eu/hitachi-nissan-tuning-software"
   ],
-  "matched_variants_count": 58,
+  "matched_variants_count": 60,
   "brands": {
     "FORD": [
       "HITACHI"
@@ -47,9 +47,11 @@
       "SH7059"
     ],
     "CHEVROLET": [
+      "SH7058-DECE02 SH7059",
       "SH7059"
     ],
     "VAUXHALL": [
+      "SH7058-DECE02 SH7059",
       "SH7059"
     ],
     "PEUGEOT": [
