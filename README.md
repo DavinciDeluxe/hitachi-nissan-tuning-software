@@ -19,13 +19,13 @@
 | **SUBARU** | 3 | `HITACHI`, `SH7058-SH7059`, `SH72543` |
 | **RENAULT TRUCKS** | 3 | `BED434`, `BED501`, `SH7059` |
 | **HYUNDAI** | 2 | `SH7058`, `SH72546` |
+| **CHEVROLET** | 2 | `SH7058-DECE02 SH7059`, `SH7059` |
+| **VAUXHALL** | 2 | `SH7058-DECE02 SH7059`, `SH7059` |
 | **DACIA** | 2 | `HITACHI`, `MEC93` |
 | **INFINITI** | 2 | `HITACHI`, `MEC93` |
 | **ALPINE** | 2 | `HITACHI`, `MEC93` |
 | **FORD** | 1 | `HITACHI` |
 | **HONDA** | 1 | `SH7058` |
-| **CHEVROLET** | 1 | `SH7059` |
-| **VAUXHALL** | 1 | `SH7059` |
 | **PEUGEOT** | 1 | `SH7058-SH7059` |
 | **SUZUKI** | 1 | `SH7058` |
 | **TOYOTA** | 1 | `SH72531` |
